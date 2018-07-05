@@ -139,9 +139,6 @@ export default {
 }
 </script>
 <style>
-.m-multline {
-
-}
 .m-multline .end {
     position: absolute;
     bottom: 0;
