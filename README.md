@@ -1,5 +1,7 @@
 vue-multline是一个实现多行文字末尾展示省略号以及展开收起按钮的vue组件。
 
+> demo: https://wustlcq.github.io/vue-multline/
+
 # 快速开始
 
 ```html
