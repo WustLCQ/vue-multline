@@ -1,4 +1,4 @@
-vue-multline是一个实现多行文字末尾展示省略号以及展开收起按钮的vue组件。
+vue-multline是一个实现多行文字末尾展示省略号以及展开收起按钮的vue组件。
 
 # 快速开始
 
@@ -25,7 +25,7 @@ vue-multline是一个实现多行文字末尾展示省略号以及展开收起�
 | showCollapseBtn | 是否显示收起按钮 | Boolean | true |
 | collapseBtnText | 收起按钮文字 | String | 收起 |
 | leftSpace | 左边补白 | String,css长度值，如5px，1rem | "" |
-| rightSpace | 右边补白 | String,css长度值，如5px，1rem | "" |
+| rightSpace | 左边补白 | String,css长度值，如5px，1rem | "" |
 | bgColor | 末尾按钮背景色 | String,css颜色值，如#fff,rgba(0,0,0) | #fff |
 
 由于末位的...以及展开收起按钮采用的是绝对定位方式，有时候会出现...遮挡住一部分文字以及按钮与上一行文字不对齐的情况，此时需要通过*leftSpace*与*rightSpace*修正
