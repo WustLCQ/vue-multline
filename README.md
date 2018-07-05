@@ -4,6 +4,10 @@ vue-multline是一个实现多行文字末尾展示省略号以及展开收起�
 
 # 快速开始
 
+```
+npm install --save vue-multline
+```
+
 ```html
 <vue-multline
     :line="3"
