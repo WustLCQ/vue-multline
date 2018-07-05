@@ -1,8 +1,8 @@
 {
   "name": "vue-multline",
   "version": "1.0.0",
-  "description": "",
-  "main": "src/index.js",
+  "description": "一个实现多行文本末尾显示省略号的vue组件",
+  "main": "src/index.vue",
   "scripts": {
     "dev": "webpack-dev-server --open --hot --mode=development",
     "build": "webpack --progress --hide-modules --mode=production"
@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/WustLCQ/vue-multline.git"
   },
-  "keywords": [],
+  "keywords": ["vue", "ellipsis"],
   "author": "",
   "license": "ISC",
   "bugs": {
