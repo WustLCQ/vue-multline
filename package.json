@@ -1,0 +1,38 @@
+{
+  "name": "vue-multline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "webpack-dev-server --open --hot --mode=development",
+    "build": "webpack --progress --hide-modules --mode=production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WustLCQ/vue-multline.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WustLCQ/vue-multline/issues"
+  },
+  "homepage": "https://github.com/WustLCQ/vue-multline#readme",
+  "dependencies": {
+    "vue": "^2.5.16"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-stage-3": "^6.24.1",
+    "css-loader": "^0.28.11",
+    "node-sass": "^4.9.0",
+    "vue-loader": "^15.2.4",
+    "vue-style-loader": "^4.1.0",
+    "vue-template-compiler": "^2.5.16",
+    "webpack": "^4.14.0",
+    "webpack-cli": "^3.0.8",
+    "webpack-dev-server": "^3.1.4"
+  }
+}
